@@ -1,13 +1,13 @@
 # QuickApply
 
-<ul>
-<li>1. [Project description](#description)</li>
-<li>2. [Project goal(s)](#goals)</li>
-<li>3. [Technologies used](#technologies)</li>
-<li>4. [Deploying project on Windows 10 and Windows 11](#deploying_on_windows)</li>
-<li>5. [Deploying project on Ubuntu Linux](#deploying_on_ubuntu)</li>
-<li>6. [Credits](#credits)</li>
-</ul>
+### Table of contents
+1. [Project description](#description)<br/>
+2. [Project goal(s)](#goals)<br/>
+3. [Technologies used](#technologies)<br/>
+4. [Deploying project on Windows 10 and Windows 11](#deploying_on_windows)<br/>
+5. [Deploying project on Ubuntu Linux](#deploying_on_ubuntu)<br/>
+6. [Credits](#credits)<br/>
+<br/>
 
 ### <a name="description" title="A description of QuickApply">Project description</a>
 <p>TODO</p>
