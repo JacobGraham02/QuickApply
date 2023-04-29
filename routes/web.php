@@ -2,6 +2,8 @@
 
 use Illuminate\Support\Facades\Route;
 
+use App\Http\Controllers\NavigateController;
+
 /*
 |--------------------------------------------------------------------------
 | Web Routes
@@ -12,7 +14,6 @@ use Illuminate\Support\Facades\Route;
 | be assigned to the "web" middleware group. Make something great!
 |
 */
-
-Route::get('/', function () {
-    return view('welcome');
-});
+Route::get('/', [NavigateController::class, 'indexPage']);
+Route::get('/login', [NavigateController::class, 'loginPage']);
+Route::get('/register', [NavigateController::class, 'registerPage']);
