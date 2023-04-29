@@ -7,6 +7,7 @@
 <li>4. [Deploying project on Windows 10 and Windows 11](#deploying_on_windows)</li>
 <li>5. [Deploying project on Ubuntu Linux](#deploying_on_ubuntu)</li>
 <li>6. [Credits](#credits)</li>
+</ul>
 
 ### <a name="description" title="A description of QuickApply">Project description</a>
 <p>TODO</p>
